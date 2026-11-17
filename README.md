@@ -10,6 +10,27 @@
 **FARMPRICE AI** is an agricultural market intelligence and decision-support platform built for Indian farmers. It integrates agricultural market price data, calculates transportation-adjusted net returns, forecasts commodity prices using machine-learning time-series models, and provides explainable mandi recommendations.
 
 ---
+# FARMPRICE AI
+### Know Your Market. Calculate Your Return. Sell With Confidence.
+
+**🌐 Live Application:** [https://farmprice-ai.vercel.app/](https://farmprice-ai.vercel.app/)
+
+**FARMPRICE AI** is an agricultural market intelligence and decision-support platform built for Indian farmers. It integrates agricultural market price data, calculates transportation-adjusted net returns, forecasts commodity prices using machine-learning time-series models, and provides explainable mandi recommendations.
+
+---
+
+## 🚀 Live Deployment
+
+The FARMPRICE AI platform is available online:
+
+- **Live Website:** https://farmprice-ai.vercel.app/
+- **Hosting Platform:** Vercel
+- **Access:** Public web application
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20FARMPRICE%20AI-brightgreen?style=for-the-badge&logo=vercel)](https://farmprice-ai.vercel.app/)
+
+---
+
 
 ## 🌾 Key Features
 
